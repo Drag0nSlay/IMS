@@ -1,6 +1,11 @@
 # IMS
+
+
+
+
 Inventory Management System <br />
 An inventory management system is software that helps businesses track and manage their inventory levels, orders, sales, and deliveries. It typically includes features like barcode scanning, stock level tracking, order processing, and reporting. <br />
+
 
 **Problem Statement**
 The problem statement for an inventory management system typically outlines the challenges a business faces in effectively managing its inventory, such as inefficient tracking methods, overstocking or stockouts, manual errors in order processing, lack of real-time visibility into inventory levels, and difficulties in forecasting demand accurately. It sets the stage for developing a solution that addresses these issues and improves overall inventory management efficiency. If you need help drafting a problem statement or brainstorming solutions, feel free to provide more details about your specific situation.
