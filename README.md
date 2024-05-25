@@ -1,5 +1,5 @@
 # IMS
-Inventory Management System 
+Inventory Management System__ 
 An inventory management system is software that helps businesses track and manage their inventory levels, orders, sales, and deliveries. It typically includes features like barcode scanning, stock level tracking, order processing, and reporting.
 
 **Problem Statement**
